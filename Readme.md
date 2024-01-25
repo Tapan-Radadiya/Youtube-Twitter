@@ -95,7 +95,7 @@ All the controllers are tested and working properly
 ## To clone the repo, copy-paste the following command
  ```bash
 `git clone https://github.com/Tapan-Radadiya/Fileconverter.git`
-
+```
 ## Summary
 
 The project is a complex backend project that is built with nodejs, expressjs, mongodb, Jwt, bcrypt and many more.
