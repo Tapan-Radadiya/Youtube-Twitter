@@ -93,7 +93,7 @@ Controllers list
 All the controllers are tested and working properly
 
 ## To clone the repo, copy-paste the following command
-
+ ```bash
 `git clone https://github.com/Tapan-Radadiya/Fileconverter.git`
 
 ## Summary
